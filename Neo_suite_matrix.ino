@@ -22,8 +22,6 @@ void setup() {
   uView.display();
 }
 
-
-
 void loop() {
    fadeLineLed();  
   if (Serial.available())
