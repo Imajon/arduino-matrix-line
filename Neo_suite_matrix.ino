@@ -23,6 +23,7 @@ void setup() {
 }
 
 
+
 void loop() {
    fadeLineLed();  
   if (Serial.available())
